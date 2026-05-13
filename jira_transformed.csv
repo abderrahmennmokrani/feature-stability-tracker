@@ -1,0 +1,192 @@
+Issue_Key;Categorie;Tenant;Type_Portail;Statut;Created;PI_Planning
+TICKET-0001;Feature 11;BR;Projet 3;In Review;26/03/2026 09:36;PI 4
+TICKET-0002;Feature 6;JP;Projet 2;In Review;23/03/2026 16:59;PI 5
+TICKET-0003;Feature 3;MX;Projet 3;In Review;23/03/2026 14:35;PI 4
+TICKET-0004;Feature 5;JP;Projet 1;Deployed;16/03/2026 09:32;PI 4
+TICKET-0005;Feature 3;JP;JP;In Review;12/03/2026 10:56;PI 4
+TICKET-0006;Feature 13;CL;Projet 3;Pending Release;11/03/2026 11:58;PI 4
+TICKET-0007;Feature 13;ZA;Projet 3;Deployed;11/03/2026 11:44;PI 4
+TICKET-0008;Feature 3;AR;Projet 2;Closed;10/03/2026 15:19;PI 4
+TICKET-0009;Feature 6;AR;Projet 2;In Review;10/03/2026 15:10;PI 4
+TICKET-0010;Feature 10;AR;Projet 2;Closed;10/03/2026 13:39;PI 4
+TICKET-0011;Feature 11;AR;Projet 2;In Review;10/03/2026 13:30;PI 4
+TICKET-0012;Feature 7;MX;Projet 2;Closed;09/03/2026 16:07;PI 4
+TICKET-0013;Feature 7;AR;Projet 2;Closed;09/03/2026 14:12;PI 4
+TICKET-0014;Feature 13;AR;Projet 2;In Review;09/03/2026 13:58;PI 4
+TICKET-0015;Feature 13;AR;Projet 2;Closed;09/03/2026 13:45;PI 4
+TICKET-0016;Feature 3;AR;Projet 2;Closed;09/03/2026 13:27;PI 4
+TICKET-0017;Feature 10;AR;Projet 2;Closed;09/03/2026 09:45;PI 4
+TICKET-0018;Feature 10;AR;Projet 2;Closed;06/03/2026 17:25;PI 4
+TICKET-0019;Feature 11;IN;Projet 3;Deployed;06/03/2026 15:39;PI 4
+TICKET-0020;Feature 5;JP;Projet 1;Closed;06/03/2026 09:26;PI 4
+TICKET-0021;Feature 2;JP;JP;In Review;04/03/2026 12:13;PI 5
+TICKET-0022;Feature 13;BR;Projet 2;Cancelled;26/Feb/26 2:11 PM;PI 4
+TICKET-0023;Feature 3;AR;Projet 3;Cancelled;25/Feb/26 5:58 PM;PI 4
+TICKET-0024;Feature 8;JP;JP;Closed;25/Feb/26 5:01 PM;PI 4
+TICKET-0025;Feature 13;JP;JP;Closed;20/Feb/26 5:28 PM;PI 4
+TICKET-0026;Feature 11;BR;Projet 2;In Review;19/Feb/26 2:05 PM;PI 5
+TICKET-0027;Feature 8;BR;Projet 3;Cancelled;18/Feb/26 5:30 PM;PI 4
+TICKET-0028;Feature 8;BR;Projet 3;Closed;18/Feb/26 5:16 PM;PI 4
+TICKET-0029;Feature 8;BR;Projet 2;Closed;18/Feb/26 4:45 PM;PI 4
+TICKET-0030;Feature 13;PL;Projet 3;In Progress;18/Feb/26 10:14 AM;PI 4
+TICKET-0031;Feature 12;JP;JP;Closed;17/Feb/26 4:35 PM;PI 4
+TICKET-0032;Feature 6;CL;Projet 3;Deployed;17/Feb/26 3:31 PM;PI 4
+TICKET-0033;Feature 13;ZA;Projet 3;Cancelled;17/Feb/26 2:03 PM;PI 4
+TICKET-0034;Feature 13;JP;JP;Closed;16/Feb/26 4:40 PM;PI 4
+TICKET-0035;Feature 3;TH;Projet 3;Deployed;13/Feb/26 3:06 PM;PI 4
+TICKET-0036;Feature 8;JP;Projet 3;Deployed;12/Feb/26 9:29 AM;PI 4
+TICKET-0037;Feature 13;JP;Projet 3;Closed;10/Feb/26 4:15 PM;PI 4
+TICKET-0038;Feature 3;JP;JP;Deployed;10/Feb/26 2:35 PM;PI 4
+TICKET-0039;Feature 13;ZA;Projet 3;Closed;09/Feb/26 5:01 PM;PI 4
+TICKET-0040;Feature 2;IN;Projet 3;Pending Release;05/Feb/26 2:52 PM;PI 4
+TICKET-0041;Feature 5;JP;Projet 1;Closed;04/Feb/26 4:27 PM;PI 4
+TICKET-0042;Feature 6;BR;Projet 2;In Review;03/Feb/26 1:28 PM;PI 4
+TICKET-0043;Feature 8;NG;Projet 3;Closed;03/Feb/26 10:22 AM;PI 4
+TICKET-0044;Feature 5;JP;Projet 1;Closed;02/Feb/26 11:06 AM;PI 4
+TICKET-0045;Feature 10;JP;JP;In Review;26/01/2026 16:57;PI 6
+TICKET-0046;Feature 13;MX;JP;Closed;26/01/2026 15:09;PI 4
+TICKET-0047;Feature 11;JP;JP;Closed;23/01/2026 16:16;PI 4
+TICKET-0048;Feature 11;JP;JP;Closed;22/01/2026 13:36;PI 4
+TICKET-0049;Feature 11;JP;JP;Closed;20/01/2026 11:41;PI 4
+TICKET-0050;Feature 8;JP;Projet 3;Deployed;15/01/2026 16:07;PI 4
+TICKET-0051;Feature 7;JP;JP;Closed;15/01/2026 15:19;PI 4
+TICKET-0052;Feature 13;JP;JP;Closed;13/01/2026 15:58;PI 4
+TICKET-0053;Feature 11;JP;JP;Closed;13/01/2026 14:04;PI 4
+TICKET-0054;Feature 13;BR;Projet 3;Deployed;09/01/2026 15:06;PI 4
+TICKET-0055;Feature 8;PL;Projet 3;Deployed;09/01/2026 15:02;PI 4
+TICKET-0056;Feature 12;ZA;JP;Deployed;07/01/2026 09:15;PI 4
+TICKET-0057;Feature 3;JP;JP;Closed;06/01/2026 16:16;PI 4
+TICKET-0058;Feature 13;JP;JP;Closed;06/01/2026 15:33;PI 4
+TICKET-0059;Feature 3;JP;Projet 3;Closed;05/01/2026 08:55;PI 4
+TICKET-0060;Feature 10;JP;JP;Closed;02/01/2026 15:28;PI 4
+TICKET-0061;Feature 3;JP;JP;Cancelled;02/01/2026 14:51;PI 4
+TICKET-0062;Feature 11;JP;JP;Closed;26/Dec/25 4:34 PM;PI 4
+TICKET-0063;Feature 10;BR;Projet 3;Closed;23/Dec/25 10:47 AM;PI 4
+TICKET-0064;Feature 13;TH;Projet 3;Closed;12/Dec/25 10:29 AM;PI 5
+TICKET-0065;Feature 4;JP;JP;Deployed;11/Dec/25 2:12 PM;PI 4
+TICKET-0066;Feature 3;JP;Projet 3;Closed;04/Dec/25 9:59 AM;PI 3
+TICKET-0067;Feature 12;JP;Projet 3;Deployed;01/Dec/25 4:31 PM;PI 3
+TICKET-0068;Feature 1;JP;JP;Closed;01/Dec/25 3:39 PM;PI 3
+TICKET-0069;Feature 6;BR;Projet 2;Cancelled;28/11/2025 10:31;PI 3
+TICKET-0070;Feature 6;BR;Projet 2;Closed;27/11/2025 11:42;PI 3
+TICKET-0071;Feature 3;JP;Projet 3;Deployed;26/11/2025 13:23;PI 3
+TICKET-0072;Feature 13;PL;Projet 3;Closed;25/11/2025 14:02;PI 3
+TICKET-0073;Feature 12;TH;JP;Cancelled;25/11/2025 09:23;PI 3
+TICKET-0074;Feature 11;MX;Projet 2;Cancelled;24/11/2025 15:27;PI 3
+TICKET-0075;Feature 13;JP;JP;Closed;21/11/2025 16:46;PI 3
+TICKET-0076;Feature 13;MX;JP;Closed;17/11/2025 17:55;PI 3
+TICKET-0077;Feature 13;BR;Projet 2;Cancelled;17/11/2025 15:32;PI 3
+TICKET-0078;Feature 8;NG;Projet 3;In Progress;13/11/2025 17:58;PI 3
+TICKET-0079;Feature 12;JP;Projet 3;In Progress;13/11/2025 14:58;PI 3
+TICKET-0080;Feature 8;BR;Projet 3;Closed;13/11/2025 14:31;PI 3
+TICKET-0081;Feature 13;BR;Projet 3;Cancelled;12/11/2025 17:58;PI 5
+TICKET-0082;Feature 13;BR;Projet 3;In Review;12/11/2025 17:05;PI 6
+TICKET-0083;Feature 10;MX;Projet 3;Closed;11/11/2025 10:31;PI 3
+TICKET-0084;Feature 11;MX;Projet 3;In Review;10/11/2025 16:19;PI 6
+TICKET-0085;Feature 12;MX;Projet 3;Closed;10/11/2025 15:56;PI 3
+TICKET-0086;Feature 5;TH;Projet 1;Deployed;04/11/2025 14:54;PI 3
+TICKET-0087;Feature 8;BR;Projet 3;Deployed;30/10/2025 17:24;PI 3
+TICKET-0088;Feature 13;JP;JP;In Review;28/10/2025 15:37;PI 6
+TICKET-0089;Feature 13;BR;Projet 2;Closed;28/10/2025 11:25;PI 3
+TICKET-0090;Feature 13;BR;Projet 2;Closed;27/10/2025 11:55;PI 3
+TICKET-0091;Feature 13;BR;Projet 2;Closed;27/10/2025 11:12;PI 3
+TICKET-0092;Feature 13;BR;Projet 2;Closed;24/10/2025 16:45;PI 3
+TICKET-0093;Feature 13;JP;JP;Closed;24/10/2025 11:17;PI 3
+TICKET-0094;Feature 3;JP;JP;Closed;23/10/2025 12:46;PI 3
+TICKET-0095;Feature 13;JP;JP;Closed;23/10/2025 12:36;PI 3
+TICKET-0096;Feature 11;JP;JP;Closed;21/10/2025 15:56;PI 3
+TICKET-0097;Feature 3;CL;JP;Closed;21/10/2025 15:41;PI 3
+TICKET-0098;Feature 10;MX;Projet 2;Closed;21/10/2025 13:36;PI 3
+TICKET-0099;Feature 5;AR;Projet 1;Deployed;20/10/2025 17:21;PI 3
+TICKET-0100;Feature 12;PL;Projet 3;In Review;20/10/2025 17:14;PI 5
+TICKET-0101;Feature 11;JP;Projet 3;Closed;10/10/2025 17:53;PI 3
+TICKET-0102;Feature 13;JP;Projet 3;Cancelled;10/10/2025 15:26;PI 3
+TICKET-0103;Feature 13;MX;Projet 2;In Review;09/10/2025 18:34;PI 6
+TICKET-0104;Feature 13;MX;Projet 2;In Review;09/10/2025 18:27;PI 6
+TICKET-0105;Feature 3;JP;Projet 3;In Review;09/10/2025 18:08;PI 3
+TICKET-0106;Feature 13;BR;Projet 3;Deployed;09/10/2025 18:00;PI 4
+TICKET-0107;Feature 13;MX;Projet 2;Closed;09/10/2025 17:49;PI 3
+TICKET-0108;Feature 13;MX;Projet 2;Closed;07/10/2025 17:16;PI 3
+TICKET-0109;Feature 6;BR;Projet 2;Closed;07/10/2025 11:26;PI 3
+TICKET-0110;Feature 13;BR;Projet 2;Closed;07/10/2025 11:16;PI 3
+TICKET-0111;Feature 7;BR;Projet 2;Cancelled;06/10/2025 17:02;PI 3
+TICKET-0112;Feature 13;JP;Projet 3;Deployed;06/10/2025 15:02;PI 3
+TICKET-0113;Feature 13;TH;Projet 3;Deployed;01/10/2025 15:50;PI 1
+TICKET-0114;Feature 11;ZA;Projet 3;Deployed;01/10/2025 15:49;PI 1
+TICKET-0115;Feature 13;MX;Projet 2;In Review;24/09/2025 16:15;PI 6
+TICKET-0116;Feature 13;MX;Projet 2;Closed;24/09/2025 12:46;PI 2
+TICKET-0117;Feature 13;MX;Projet 2;Closed;24/09/2025 12:20;PI 2
+TICKET-0118;Feature 13;MX;Projet 2;In Review;24/09/2025 11:48;PI 6
+TICKET-0119;Feature 3;MX;Projet 2;Closed;23/09/2025 17:07;PI 2
+TICKET-0120;Feature 3;MX;Projet 2;Closed;23/09/2025 15:47;PI 2
+TICKET-0121;Feature 13;MX;Projet 2;In Review;23/09/2025 11:28;PI 6
+TICKET-0122;Feature 6;MX;Projet 2;In Review;23/09/2025 11:12;PI 6
+TICKET-0123;Feature 3;MX;Projet 2;Closed;23/09/2025 10:57;PI 2
+TICKET-0124;Feature 13;MX;Projet 2;Closed;23/09/2025 10:55;PI 2
+TICKET-0125;Feature 6;MX;Projet 2;Closed;22/09/2025 16:17;PI 2
+TICKET-0126;Feature 13;MX;Projet 2;Closed;22/09/2025 11:36;PI 2
+TICKET-0127;Feature 11;MX;Projet 2;In Review;19/09/2025 11:01;PI 6
+TICKET-0128;Feature 6;MX;Projet 2;Closed;17/09/2025 10:41;PI 2
+TICKET-0129;Feature 7;MX;Projet 2;Closed;17/09/2025 10:37;PI 2
+TICKET-0130;Feature 12;JP;Projet 3;Deployed;16/09/2025 15:21;PI 2
+TICKET-0131;Feature 11;MX;Projet 2;Closed;15/09/2025 16:02;PI 2
+TICKET-0132;Feature 3;MX;Projet 2;Closed;12/09/2025 17:59;PI 2
+TICKET-0133;Feature 6;MX;Projet 2;Closed;12/09/2025 17:47;PI 6
+TICKET-0134;Feature 6;MX;Projet 2;In Review;12/09/2025 17:24;PI 6
+TICKET-0135;Feature 6;MX;Projet 2;In Review;12/09/2025 17:03;PI 6
+TICKET-0136;Feature 13;MX;Projet 2;Closed;12/09/2025 12:51;PI 2
+TICKET-0137;Feature 8;MX;Projet 2;In Review;12/09/2025 12:12;PI 6
+TICKET-0138;Feature 13;MX;Projet 2;Closed;11/09/2025 16:02;PI 2
+TICKET-0139;Feature 6;MX;Projet 2;Closed;09/09/2025 17:31;PI 2
+TICKET-0140;Feature 13;MX;Projet 2;Closed;09/09/2025 17:28;PI 2
+TICKET-0141;Feature 7;MX;Projet 2;In Progress;08/09/2025 22:53;PI 2
+TICKET-0142;Feature 6;BR;Projet 2;Closed;03/09/2025 12:32;PI 2
+TICKET-0143;Feature 13;MX;Projet 2;In Review;02/09/2025 17:45;PI 2
+TICKET-0144;Feature 13;MX;Projet 2;In Review;29/Aug/25 12:56 PM;PI 6
+TICKET-0145;Feature 13;MX;Projet 2;In Review;29/Aug/25 10:31 AM;PI 2
+TICKET-0146;Feature 7;MX;Projet 2;Closed;28/Aug/25 6:48 PM;PI 2
+TICKET-0147;Feature 13;MX;Projet 2;Closed;27/Aug/25 10:07 AM;PI 2
+TICKET-0148;Feature 13;MX;Projet 2;In Review;26/Aug/25 4:17 PM;PI 6
+TICKET-0149;Feature 13;MX;Projet 2;Deployed;26/Aug/25 12:43 PM;PI 2
+TICKET-0150;Feature 13;MX;Projet 2;Cancelled;26/Aug/25 12:17 PM;PI 2
+TICKET-0151;Feature 13;MX;Projet 2;Cancelled;26/Aug/25 12:14 PM;PI 2
+TICKET-0152;Feature 13;MX;Projet 2;Deployed;26/Aug/25 9:01 AM;PI 2
+TICKET-0153;Feature 3;MX;Projet 2;Deployed;19/Aug/25 1:04 PM;PI 2
+TICKET-0154;Feature 10;MX;Projet 2;Deployed;19/Aug/25 12:59 PM;PI 2
+TICKET-0155;Feature 13;MX;Projet 2;Deployed;19/Aug/25 12:09 PM;PI 2
+TICKET-0156;Feature 13;MX;Projet 2;Deployed;19/Aug/25 11:53 AM;PI 2
+TICKET-0157;Feature 13;MX;Projet 2;Cancelled;19/Aug/25 11:00 AM;PI 2
+TICKET-0158;Feature 13;MX;Projet 2;Closed;19/Aug/25 10:39 AM;PI 2
+TICKET-0159;Feature 6;MX;Projet 2;Closed;18/Aug/25 3:41 PM;PI 2
+TICKET-0160;Feature 2;BR;Projet 3;Deployed;08/Aug/25 4:38 PM;PI 2
+TICKET-0161;Feature 13;MX;Projet 2;Deployed;08/Aug/25 3:15 PM;PI 2
+TICKET-0162;Feature 13;MX;Projet 2;Deployed;06/Aug/25 10:49 AM;PI 2
+TICKET-0163;Feature 13;MX;Projet 2;Deployed;06/Aug/25 10:41 AM;PI 2
+TICKET-0164;Feature 11;JP;Projet 3;Closed;05/Aug/25 2:05 PM;PI 2
+TICKET-0165;Feature 3;MX;Projet 2;Deployed;05/Aug/25 12:11 PM;PI 2
+TICKET-0166;Feature 3;MX;Projet 2;Deployed;05/Aug/25 12:04 PM;PI 2
+TICKET-0167;Feature 13;TH;Projet 3;Cancelled;22/07/2025 18:48;PI 2
+TICKET-0168;Feature 13;BR;Projet 3;In Review;22/07/2025 13:19;PI 2
+TICKET-0169;Feature 13;BR;Projet 3;Cancelled;22/07/2025 12:39;PI 2
+TICKET-0170;Feature 13;BR;Projet 3;Cancelled;19/07/2025 01:01;PI 2
+TICKET-0171;Feature 13;BR;Projet 3;Closed;16/07/2025 17:04;PI 2
+TICKET-0172;Feature 13;BR;Projet 2;Closed;16/07/2025 14:06;PI 2
+TICKET-0173;Feature 2;CL;Projet 3;Cancelled;03/07/2025 15:11;PI 2
+TICKET-0174;Feature 9;BR;Projet 3;Closed;25/06/2025 15:33;PI 1
+TICKET-0175;Feature 10;EG;Projet 3;Cancelled;23/06/2025 16:13;PI 1
+TICKET-0176;Feature 12;JP;Projet 3;Cancelled;23/06/2025 12:19;PI 1
+TICKET-0177;Feature 10;AR;Projet 3;Cancelled;23/06/2025 12:03;PI 1
+TICKET-0178;Feature 10;EG;Projet 3;Closed;20/06/2025 19:23;PI 1
+TICKET-0179;Feature 10;JP;Projet 3;Cancelled;20/06/2025 18:31;PI 2
+TICKET-0180;Feature 10;JP;Projet 3;Cancelled;20/06/2025 18:18;PI 1
+TICKET-0181;Feature 10;JP;Projet 3;Cancelled;20/06/2025 18:09;PI 1
+TICKET-0182;Feature 10;AR;Projet 3;Closed;20/06/2025 09:37;PI 1
+TICKET-0183;Feature 10;JP;Projet 3;Cancelled;20/06/2025 09:17;PI 1
+TICKET-0184;Feature 10;JP;Projet 3;Closed;19/06/2025 16:16;PI 1
+TICKET-0185;Feature 11;ZA;Projet 3;Cancelled;18/06/2025 13:52;PI 1
+TICKET-0186;Feature 8;PL;Projet 3;In Review;17/06/2025 10:57;PI 1
+TICKET-0187;Feature 13;BR;Projet 3;Closed;16/06/2025 18:29;PI 1
+TICKET-0188;Feature 13;BR;Projet 3;Cancelled;16/06/2025 17:14;PI 1
+TICKET-0189;Feature 10;IN;Projet 3;Closed;16/06/2025 14:55;PI 1
+TICKET-0190;Feature 3;JP;Projet 3;In Review;16/06/2025 12:45;PI 1
+TICKET-0191;Feature 13;PL;Projet 3;Cancelled;12/06/2025 13:29;PI 1
