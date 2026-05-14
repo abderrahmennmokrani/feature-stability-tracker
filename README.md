@@ -157,7 +157,7 @@ The motivation was simple: the team had Jira data but no structured view of it. 
 
 ## Author
 
-**Ali** — Senior Product Owner | Digital · Data · AI | Freelance  
-[LinkedIn](https://www.linkedin.com/in/) · [GitHub](https://github.com/)
+**Abderrahmen Mokrani** — Senior Product Owner | Digital · Data · AI | Freelance  
+[LinkedIn](www.linkedin.com/in/a-mokrani) · [GitHub](https://github.com/abderrahmennmokrani)
 
 > *PSPO II · PSM II · SAFe SM 6*
